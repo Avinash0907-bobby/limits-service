@@ -35,3 +35,4 @@ build/
 /.mvn/wrapper/MavenWrapperDownloader.java
 /mvnw
 /mvnw.cmd
+/.mvn/wrapper/maven-wrapper.jar
